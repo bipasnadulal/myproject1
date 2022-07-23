@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'app_myproject1',  #comma is given to write next installation. if its your last item then no need to write comma.
 ]
 
 MIDDLEWARE = [
